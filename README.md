@@ -1,4 +1,4 @@
-# Classification with Machine Learning Models
+# Classification with Machine Learning Models and analysis of results
 
 This project aims to compare machine learning models in the classification of subjects based on facial attributes into males and females. The dataset is sourced from [Kaggle](https://www.kaggle.com/datasets/elakiricoder/gender-classification-dataset).
 
